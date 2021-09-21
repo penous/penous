@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, javascript or python**
 
-- 📫 How to reach me & get to know me **https://agitated-jepsen-f990b2.netlify.app/**
+- 📫 How to reach me & get to know me **https://diritom.com/**
 
 - ⚡ Fun fact **Let's build something together!**
 
